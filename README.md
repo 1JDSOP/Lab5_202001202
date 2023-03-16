@@ -21,6 +21,8 @@ Tool Output:
 Understanding of Errors: 
 
 1. Import Errors:
-Programe is not able to find implemented files or library .
+Programe is not able to find implemented files or library stub.
 2. Note:
-Helps to solve the error on imports.
+Helps to solve the errors on imports.
+
+This type of error occur when implemented file or library stub not found in same or child directory or path to libraries were not added to `PATH` environment variable.
